@@ -1,0 +1,14 @@
+C:\Users\Willian Vital\source\repos\TirarHabilitacao\TirarHabilitacao\bin\Debug\net6.0\TirarHabilitacao.exe
+C:\Users\Willian Vital\source\repos\TirarHabilitacao\TirarHabilitacao\bin\Debug\net6.0\TirarHabilitacao.deps.json
+C:\Users\Willian Vital\source\repos\TirarHabilitacao\TirarHabilitacao\bin\Debug\net6.0\TirarHabilitacao.runtimeconfig.json
+C:\Users\Willian Vital\source\repos\TirarHabilitacao\TirarHabilitacao\bin\Debug\net6.0\TirarHabilitacao.dll
+C:\Users\Willian Vital\source\repos\TirarHabilitacao\TirarHabilitacao\bin\Debug\net6.0\TirarHabilitacao.pdb
+C:\Users\Willian Vital\source\repos\TirarHabilitacao\TirarHabilitacao\obj\Debug\net6.0\TirarHabilitacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian Vital\source\repos\TirarHabilitacao\TirarHabilitacao\obj\Debug\net6.0\TirarHabilitacao.AssemblyInfoInputs.cache
+C:\Users\Willian Vital\source\repos\TirarHabilitacao\TirarHabilitacao\obj\Debug\net6.0\TirarHabilitacao.AssemblyInfo.cs
+C:\Users\Willian Vital\source\repos\TirarHabilitacao\TirarHabilitacao\obj\Debug\net6.0\TirarHabilitacao.csproj.CoreCompileInputs.cache
+C:\Users\Willian Vital\source\repos\TirarHabilitacao\TirarHabilitacao\obj\Debug\net6.0\TirarHabilitacao.dll
+C:\Users\Willian Vital\source\repos\TirarHabilitacao\TirarHabilitacao\obj\Debug\net6.0\refint\TirarHabilitacao.dll
+C:\Users\Willian Vital\source\repos\TirarHabilitacao\TirarHabilitacao\obj\Debug\net6.0\TirarHabilitacao.pdb
+C:\Users\Willian Vital\source\repos\TirarHabilitacao\TirarHabilitacao\obj\Debug\net6.0\TirarHabilitacao.genruntimeconfig.cache
+C:\Users\Willian Vital\source\repos\TirarHabilitacao\TirarHabilitacao\obj\Debug\net6.0\ref\TirarHabilitacao.dll

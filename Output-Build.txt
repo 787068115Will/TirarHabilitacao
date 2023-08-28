@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: TirarHabilitacao, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>TirarHabilitacao -> C:\Users\Willian Vital\source\repos\TirarHabilitacao\TirarHabilitacao\bin\Debug\net6.0\TirarHabilitacao.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 6:52 AM and took 00.398 seconds ==========
